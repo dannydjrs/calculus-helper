@@ -1,9 +1,9 @@
-# Calculus Helper
+# Calculus Helper
 
 > A project aimed to help A-level mathematics students with differentiation and integration.
 > Developed for A2 Computer Science Coursework.
 
-## Features
+## Features
 
 1.  Graph input / display
 
