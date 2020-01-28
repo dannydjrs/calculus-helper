@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+.root{
+	-fx-font-size: 16pt;
+	-fx-font-family: "Courier New";
+	-fx-base: rgb(153, 255, 255);
+	-fx-background: rgb(153, 255, 255);
+}
